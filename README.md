@@ -8,4 +8,4 @@
 - SQLite / Docker
 - Web applications
 
-Website: https://shino-project.pages.dev/
+Website: https://shinoforge.pages.dev/
