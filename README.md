@@ -8,4 +8,7 @@
 - SQLite / Docker
 - Web applications
 
+LLM_Local_Chatは以下に移動しました。
+ttps://llm-local-chat-download.shinoforge.workers.dev/
+
 Website: https://shinoforge.pages.dev/
